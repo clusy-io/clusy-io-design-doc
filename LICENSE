@@ -1,21 +1,105 @@
-MIT License
+# PROPRIETARY SOFTWARE LICENSE  
+**STRICT NO-USE LICENSE**
 
-Copyright (c) 2025 clusy.io
+Copyright (c) 2025 **clusy.io**  
+All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+---
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## 1. NO LICENSE GRANTED
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Nothing in this repository is licensed for use.
+
+**No permission is granted** to use, copy, modify, merge, publish, distribute, sublicense, sell, display, run, test, benchmark, or deploy any part of this repository, in source or binary form, for **any purpose whatsoever**, whether commercial, academic, personal, or governmental.
+
+This repository is provided **for visibility only** and does **not** constitute:
+- An open-source release  
+- An evaluation license  
+- A research license  
+- A commercial license  
+- An implied permission of any kind  
+
+All rights are **fully and exclusively reserved** by **clusy.io**.
+
+---
+
+## 2. OWNERSHIP
+
+All files, code, documentation, models, schemas, designs, and intellectual property contained in this repository are the **exclusive property of clusy.io**.
+
+No ownership, license, or other right is transferred under any circumstances.
+
+---
+
+## 3. PROHIBITED ACTIONS
+
+You **may NOT**, under any condition:
+
+- Use the software in whole or in part
+- Compile, execute, or deploy any part of the software
+- Copy or reproduce any portion
+- Modify, adapt, translate, or create derivative works
+- Distribute or make the software available to third parties
+- Reverse engineer, decompile, or disassemble
+- Use any part of the software for benchmarking, analysis, or training
+- Use the software to build a competing product or service
+
+Any unauthorized action constitutes **willful copyright infringement**.
+
+---
+
+## 4. CONFIDENTIALITY
+
+All contents of this repository constitute **confidential and proprietary information** of **clusy.io**, regardless of public visibility on GitHub.
+
+Access to this repository does **not** grant permission to disclose, discuss, or redistribute its contents in any form without **explicit written authorization** from clusy.io.
+
+---
+
+## 5. NO WARRANTY
+
+THIS SOFTWARE IS PROVIDED **“AS IS”**, WITH **NO WARRANTIES OF ANY KIND**, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO:
+
+- FITNESS FOR A PARTICULAR PURPOSE  
+- MERCHANTABILITY  
+- NON-INFRINGEMENT  
+- SECURITY  
+- ACCURACY  
+- AVAILABILITY  
+
+All risk arising from access to this repository remains with the user.
+
+---
+
+## 6. LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL **clusy.io** BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT, OR OTHERWISE, ARISING FROM OR IN CONNECTION WITH THIS REPOSITORY OR ANY ATTEMPTED USE OF IT.
+
+---
+
+## 7. TERMINATION
+
+Any unauthorized access, copying, or use of this repository automatically terminates any implied right to access it and may result in **civil and criminal liability**.
+
+All copies must be immediately destroyed upon request.
+
+---
+
+## 8. GOVERNING LAW
+
+This License shall be governed by and construed in accordance with the laws of the jurisdiction in which **clusy.io** is legally registered, without regard to conflict-of-law principles.
+
+---
+
+## 9. LICENSING CONTACT
+
+For commercial licensing, research access, or written permission requests:
+
+**legal@clusy.io**
+
+---
+
+# ⚠️ IMPORTANT NOTICE
+
+This repository is **NOT open source**.  
+**NO USE IS PERMITTED WITHOUT EXPLICIT WRITTEN PERMISSION FROM CLUSY.IO.**
